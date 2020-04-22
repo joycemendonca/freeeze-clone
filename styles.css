@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.menu-home a{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+.menu-home{
+    margin-right: 40px;
+}
