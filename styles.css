@@ -1,6 +1,10 @@
 .menu{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 120px; 
+    background-color: #eeebec;
     
 }
 
@@ -11,5 +15,13 @@
 }
 
 .menu-home{
-    margin-right: 40px;
+    padding-right: 200px;
+}
+
+.menu-logo{
+    padding-left: 200px;
+}
+
+.home-img{
+    text-align: center;
 }
