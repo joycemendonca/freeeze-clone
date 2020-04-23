@@ -23,5 +23,45 @@
 }
 
 .home-img{
-    text-align: center;
+    /* text-align: center; */
+    background-image: url('http://placehold.it/960x660');
+    height: 660px;
+    background-repeat: no-repeat;
+}
+
+.content{
+    margin-left: 194px;
+    /* margin-right: 194px; */
+}
+
+.content-1{
+    height: 260px;
+    width: 100%;
+    background-color: #eeebec;
+    background-image: url('http://placehold.it/330x260');
+    background-repeat: no-repeat;
+  
+}
+
+.content-2{
+    color: #7A6666;
+    font-family: lato-bold-webfont;
+    font-size: 18px;
+    padding: 47px 0 18px;
+}
+
+.content-3{
+    color: #E32A62;
+    font-family: ('magra-bold-webfont');
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.content-4{
+    color: #7a6666;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    padding-bottom: 47px;
 }
