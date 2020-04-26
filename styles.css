@@ -20,7 +20,7 @@
     position: relative;
 }
 
-.menu-home .menu-home-1{
+.menu-home .menu-sub{
     position: relative;
     
 }
@@ -30,19 +30,24 @@
 }
 
 .sub-menu{
-    display: block;
-    position: absolute;
-    left: 0;
-    margin-top: 10px;
-}
+   position: absolute;
+   top: 100%;
+   left: 0px;
+   display: none;
 
-.menu-home-1 a:hover{
-    color: #E32A62;
 }
 
 
-.menu-home-1:hover .sub-menu{
+.menu-sub{
+    position: relative;
+}
+
+.menu-sub:hover .sub-menu{
     display: block;
+}
+
+.menu-sub a:hover{
+    color: yellowgreen;
 }
 
 .home-img{
