@@ -143,3 +143,25 @@
     padding-right: 25px;
     
 }
+
+.title h1{
+    color: #FFFFFF;
+    font-family: lato-regular-webfont;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 28px 0 23px;
+    text-align: center;
+    
+}
+
+.title{
+    background: #c8c10d;
+}
+
+.menu-products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+}
