@@ -165,3 +165,9 @@
     align-items: center;
     padding: 10px 10px;
 }
+
+.banner{
+    background-image: url(http://placehold.it/249x249);
+    height: 240px;
+    width: 100%;
+}
