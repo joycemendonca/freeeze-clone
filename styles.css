@@ -181,12 +181,21 @@
 }
 
 .about-content-sidebar{
-    height: 624px;
+    /* height: 624px; */
     width: 605px;
     text-align: center;
     background-color: #EFEDEE;
     padding: 22px 72px;
     margin-top: 40px;
+    line-height: 48px;
+    margin-bottom: 120px;
+}
+
+.about-content-sidebar p{
+    width: 178px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 66px;
 }
 
 .about-content-sidebar h2{
