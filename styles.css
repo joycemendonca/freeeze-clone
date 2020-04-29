@@ -171,3 +171,34 @@
     height: 240px;
     width: 100%;
 }
+
+.about-content{
+    display: flex;
+    justify-content: center;
+    margin-left: 194.5px;
+    margin-right: 194.5px;
+    line-height: 24px;
+}
+
+.about-content-sidebar{
+    height: 624px;
+    width: 605px;
+    text-align: center;
+    background-color: #EFEDEE;
+    padding: 22px 72px;
+    margin-top: 40px;
+}
+
+.about-content-sidebar h2{
+    color: #E32A62;
+    line-height: 34px;
+}
+
+.about-content-2 h2{
+    color: #E32A62;
+}
+
+.about-content-2{
+    margin-top: 40px;
+    margin-left: 40px;
+}
